@@ -20,14 +20,18 @@ Para a conexão com o banco de dados, optou-se pelo uso do modelo JPA (Java Pers
 
 • Modelo de conexão com o banco de dados: JPA (Java Persistence API)
 
-• Funcionalidades
+• Criação de contas bancárias
 
-• Cadastro de clientes
+• Depositar dinheiro nas contas
 
-• Criação de contas bancárias e remoção das mesmas
-
-• Realização de depósitos e saques
+• Sacar dinheiro das contas
 
 • Transferências entre contas
 
+• Cadastro de clientes
+
 • Consulta de saldo
+
+• Deletar contas
+
+• Validação de usuários
